@@ -1,3 +1,6 @@
+<p align="center">
+<img  align="center" width=100% height=300 src="https://github.com/Aman103767/imgStored/blob/main/Screenshot%202022-08-17%20at%201.05.15%20PM.png?raw=true">
+</p>
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Back-end Developer</h3>
 <img align="center" alt="Coding" width= "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
