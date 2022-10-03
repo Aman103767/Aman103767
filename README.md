@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **avinash103767@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/128b8f2JuuBHjnxbHShtnZH8Nkvc8C67Y/view?usp=sharing](https://drive.google.com/file/d/128b8f2JuuBHjnxbHShtnZH8Nkvc8C67Y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d10Inw8lLVnWd2F9rcu5KGbgo8VW5fH7/view?usp=sharing](https://drive.google.com/file/d/1d10Inw8lLVnWd2F9rcu5KGbgo8VW5fH7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
