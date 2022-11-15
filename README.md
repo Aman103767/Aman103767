@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aman198sharma114@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1m7Z289iVABfPYxoE3LpedZWt4dyqrabb/view?usp=sharing](https://drive.google.com/file/d/1m7Z289iVABfPYxoE3LpedZWt4dyqrabb/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1UfNM5Wxjplcm3xfb0NpCyhP4JHOaheKe/view?usp=sharing](https://drive.google.com/file/d/1UfNM5Wxjplcm3xfb0NpCyhP4JHOaheKe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
