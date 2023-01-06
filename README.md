@@ -30,6 +30,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode)](https://skillicons.dev)
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
+</p>
+
 <p align = "center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman103767&show_icons=true&locale=en&layout=compact" alt="aman103767" /></p>
