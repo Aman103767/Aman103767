@@ -30,7 +30,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode)](https://skillicons.dev)
 
-<br>
+<p align = "center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman103767&show_icons=true&locale=en&layout=compact" alt="aman103767" /></p>
 <br>
@@ -39,6 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman103767&" alt="aman103767" /></p>
 
+</p>
 <!--
 **Aman103767/Aman103767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
