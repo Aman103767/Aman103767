@@ -32,21 +32,12 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=falgunbokde23&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgunbokde23&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgunbokde23&theme=default" align="center" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aman103767&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman103767&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman103767&theme=default" align="center" />
 </p>
 
-<p align = "center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman103767&show_icons=true&locale=en&layout=compact" alt="aman103767" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman103767&show_icons=true&locale=en" alt="aman103767" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman103767&" alt="aman103767" /></p>
-
-</p>
 <!--
 **Aman103767/Aman103767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
