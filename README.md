@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/aman12345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e3%83%84aman/" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools:
+<h3>Languages and Tools:</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode)](https://skillicons.dev)
