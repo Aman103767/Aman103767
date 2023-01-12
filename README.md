@@ -30,7 +30,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode)](https://skillicons.dev)
 
-<h3>Git Stats</h3>
+<h3>GitHub Stats</h3>
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aman103767&show_icons=true&theme=default" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman103767&theme=default" />
