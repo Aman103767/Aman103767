@@ -1,9 +1,9 @@
-<p align="center">
-<img  align="center" width=100% height=320 src="https://github.com/Aman103767/imgStored/blob/main/Screenshot%202022-08-17%20at%201.05.15%20PM.png?raw=true">
-</p>
+![image](https://user-images.githubusercontent.com/54835356/212666806-2c3c3e75-555d-4a66-81c6-19d237bdb579.png)
+
+
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Back-end Developer</h3>
-<img align="center" alt="Coding" width= "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width= "400" src= "https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman103767&label=Profile%20views&color=0e75b6&style=flat" alt="aman103767" /> </p>
@@ -38,6 +38,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman103767&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman103767&theme=default" align="center" />
 </p>
+
+
+
 
 
 <!--
