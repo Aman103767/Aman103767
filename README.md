@@ -3,23 +3,32 @@
 
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Back-end Developer</h3>
-<img align="center" alt="Coding" width= "400" src= "https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif">
+<img align="right" alt="Coding" width= "400" src= "https://user-images.githubusercontent.com/54835356/212669577-10ee519d-25bf-461d-95ba-da3188305daf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman103767&label=Profile%20views&color=0e75b6&style=flat" alt="aman103767" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman103767" alt="aman103767" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Portfolio [https://aman103767.github.io/](https://aman103767.github.io/)
+- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+<!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://aman103767.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
 
-- 📫 How to reach me **aman198sharma114@gmail.com**
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1KxSttt9kSdZIkScHUmmKYFzXPmqq67a8/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📄 Resume [https://drive.google.com/file/d/1KxSttt9kSdZIkScHUmmKYFzXPmqq67a8/view?usp=sharing](https://drive.google.com/file/d/1KxSttt9kSdZIkScHUmmKYFzXPmqq67a8/view?usp=sharing)
 
+<!-- <img width="30" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > -->
+
+
+- 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📫 How to reach me **aman198sharma114@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman103767" alt="aman103767" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman12345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e3%83%84aman/" height="30" width="40" /></a>
