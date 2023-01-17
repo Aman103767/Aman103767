@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/54835356/212666806-2c3c3e75-555d-4a66-81c6-19d237bdb579.png)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
