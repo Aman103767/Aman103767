@@ -42,7 +42,7 @@
 <h3> 🚀 Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,aws,git,netlify,vscode,angular,ts)](https://skillicons.dev)
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
